@@ -1,9 +1,9 @@
 [submodule "src/client"]
 	path = src/client
-	url = /Users/jsonliu/Desktop/子仓库测试/base/src/client
+	url = git@github.com:jsonliu/client.git
 [submodule "src/common"]
 	path = src/common
-	url = /Users/jsonliu/Desktop/子仓库测试/base/src/common
+	url = git@github.com:jsonliu/common.git
 [submodule "src/admin"]
 	path = src/admin
-	url = /Users/jsonliu/Desktop/子仓库测试/base/src/admin
+	url = git@github.com:jsonliu/admin.git
