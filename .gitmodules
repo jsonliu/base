@@ -1,0 +1,9 @@
+[submodule "src/client"]
+	path = src/client
+	url = /Users/jsonliu/Desktop/子仓库测试/base/src/client
+[submodule "src/common"]
+	path = src/common
+	url = /Users/jsonliu/Desktop/子仓库测试/base/src/common
+[submodule "src/admin"]
+	path = src/admin
+	url = /Users/jsonliu/Desktop/子仓库测试/base/src/admin
